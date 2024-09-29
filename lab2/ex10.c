@@ -15,7 +15,7 @@ int main (void) {
 
 
 
-    while ()
+
     if (distance == r) {
 
         printf("The point is on the circle\n");
