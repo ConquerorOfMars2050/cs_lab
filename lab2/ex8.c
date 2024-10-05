@@ -5,13 +5,17 @@ int main (void) {
     unsigned int n;
 
     printf("Enter a positive integer: ");
-    scanf("%d", n);
+    scanf("%u", n);
 
     int counter = 1;
 
-    while (n > 1) {
+    int a, b; 
+    
+    n > b && n > a && b > a;
 
-        n = n 
+    while (n >= 1) {
+
+        n = a + b; 
     }
 
 }

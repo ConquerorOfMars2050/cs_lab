@@ -16,7 +16,8 @@ int main (void) {
 
 
 
-    if (distance == r) {
+
+        if (distance == r) {
 
         printf("The point is on the circle\n");
 
@@ -33,6 +34,14 @@ int main (void) {
         printf("The point is outside the circle\n");
 
     }
+
+
+
+
+
+
+
+
 
     return 0;
     
